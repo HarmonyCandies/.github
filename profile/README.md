@@ -14,7 +14,7 @@
 
 </details>
 
-<details><summary>🍭 Flutter/Dart Packages</summary>
+<details><summary>🍭 Flutter / Dart Packages</summary>
 
 <!-- md:PubDashboard begin --><!-- md:PubDashboard end -->
 
