@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Harmony Candies<br/>欢迎来到 Harmony 糖果社区</h1>
 
-<p align="center"><a href="https://qm.qq.com/q/uqaprPutF0"><img src="https://img.shields.io/badge/dynamic/yaml?url=https://raw.githubusercontent.com/amoshuke/harmonycandies.github/refs/heads/patch-1/data.yml&query=%24.qq_group_number&style=for-the-badge&label=QQ%E7%BE%A4&logo=qq&color=1DACE8" /></a></p>
+<p align="center"><a href="https://qm.qq.com/q/uqaprPutF0"><img src="https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2FHarmonyCandies%2F.github%2Frefs%2Fheads%2Fmain%2Fdata.yml&query=%24.qq_group_number&style=for-the-badge&label=QQ%E7%BE%A4&logo=qq&color=1DACE8" /></a></p>
 
 `HarmonyCandies` (糖果群) 成立于 2020 年 9 月 10 日，聚集了一群热爱 `Harmony 和 Flutter` 的开发者们，糖果群致力于通过持续创建、维护和贡献高质量的库 (`Harmony 和 Flutter 鸿蒙插件`)，让 `Harmony` 更易用，助力开发者们更快、更高效地构建优秀的 `Harmony` 应用。
 
